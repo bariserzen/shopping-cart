@@ -8,7 +8,7 @@ const data = {
         {
             id: 1,
             img: img1,
-            title: 'Juicy Grapes',
+            title: 'Nike Dunk',
             desc: '',
             price: 119.99,
         },
@@ -16,7 +16,7 @@ const data = {
         {
             id: 2,
             img: img2,
-            title: 'Red Watermelon',
+            title: 'Nike Air Red',
             desc: '',
             price: 99.99,
         },
@@ -24,7 +24,7 @@ const data = {
         {
             id: 3,
             img: img3,
-            title: 'Juicy Orange',
+            title: 'Nike Air ',
             desc: '',
             price: 109.90,
         }
